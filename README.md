@@ -7,4 +7,4 @@
 
 #Demo
 
-![](https://github.com/FloridMaclean/react-native-nft-app)
+![NFTAppReactNative](https://github.com/user-attachments/assets/08629821-a679-456c-a728-7e69a4def336)
